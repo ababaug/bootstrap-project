@@ -1,4 +1,4 @@
-## Copyright 2021, [MIRELA SANTOS OLIVEIRA, Augustine Abah]
+## Copyright 2021, [MIRELA SANTOS OLIVEIRA, AUGUSTINE ABAH]
 
 ###### Please delete this line and the next one
 ###### APP TYPE can be a webpage/website, a web app, a software and so on
